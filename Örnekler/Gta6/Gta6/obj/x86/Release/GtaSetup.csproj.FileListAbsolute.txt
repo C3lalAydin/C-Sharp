@@ -1,0 +1,20 @@
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.csproj.ResolveComReference.cache
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\Gta San Andreas Setup.exe.manifest
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\Gta San Andreas Setup.application
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\Gta San Andreas Setup.exe
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\Gta San Andreas Setup.pdb
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\Interop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.Cikis.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.Form1.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.Oyun.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.Properties.Resources.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.Surekli.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\GtaSetup.csproj.GenerateResource.Cache
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Gta San Andreas Setup.TrustInfo.xml
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Gta San Andreas Setup.exe.manifest
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Gta San Andreas Setup.application
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Gta San Andreas Setup.exe
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Release\Gta San Andreas Setup.pdb

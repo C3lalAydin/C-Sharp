@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\bin\Debug\Fibonacci Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\bin\Debug\Fibonacci Örnek.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\obj\x86\Debug\Fibonacci_Örnek.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\obj\x86\Debug\Fibonacci_Örnek.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\obj\x86\Debug\Fibonacci Örnek.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\obj\x86\Debug\Fibonacci Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Fibonacci Örnek\obj\x86\Debug\Fibonacci Örnek.pdb

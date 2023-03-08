@@ -1,0 +1,7 @@
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\bin\Debug\Kuvvet ve Karekök Hesaplama.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\bin\Debug\Kuvvet ve Karekök Hesaplama.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\obj\x86\Debug\Kuvvet_Hesaplama.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\obj\x86\Debug\Kuvvet_Hesaplama.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\obj\x86\Debug\Kuvvet ve Karekök Hesaplama.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\obj\x86\Debug\Kuvvet ve Karekök Hesaplama.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\Kuvvet ve Karekök Hesaplama\Kuvvet ve Karekök Hesaplama\obj\x86\Debug\Kuvvet ve Karekök Hesaplama.pdb

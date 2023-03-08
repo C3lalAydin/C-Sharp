@@ -1,0 +1,8 @@
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\bin\Release\HesapRadioButon.exe
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\bin\Release\HesapRadioButon.pdb
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.Form1.resources
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.Form2.resources
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.Properties.Resources.resources
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.csproj.GenerateResource.Cache
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.exe
+C:\Users\HRTML\AppData\Local\Temporary Projects\HesapRadioButon\obj\x86\Release\HesapRadioButon.pdb

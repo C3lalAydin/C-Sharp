@@ -1,0 +1,14 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\obj\x86\Debug\For_Döngü.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\obj\x86\Debug\For_Döngü.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\obj\x86\Debug\For Döngü.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\bin\Debug\For Döngü.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\bin\Debug\For Döngü.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\obj\x86\Debug\For Döngü.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\For Döngü\obj\x86\Debug\For Döngü.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\obj\x86\Debug\For Döngü.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\obj\x86\Debug\For Döngü.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\bin\Debug\For Döngü.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\bin\Debug\For Döngü.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\obj\x86\Debug\For_Döngü.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\obj\x86\Debug\For_Döngü.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\For Döngü\For Döngü\obj\x86\Debug\For Döngü.csproj.GenerateResource.Cache

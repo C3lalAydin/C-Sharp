@@ -1,0 +1,9 @@
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\bin\Release\HesapRadioButon NotKac.exe
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\bin\Release\HesapRadioButon NotKac.pdb
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon.Form1.resources
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon.Form2.resources
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon.Properties.Resources.resources
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon NotKac.csproj.GenerateResource.Cache
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon NotKac.exe
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon NotKac.pdb
+C:\Users\HRTML\documents\visual studio 2010\Projects\HesapRadioButon NotKac\HesapRadioButon NotKac\obj\x86\Release\HesapRadioButon.Form3.resources

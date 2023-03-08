@@ -1,0 +1,29 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Debug\Radyo.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Debug\Radyo.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Debug\Radyo.csproj.ResolveComReference.cache
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\Radyo.exe.manifest
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\Radyo.application
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\Radyo.exe
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\Radyo.pdb
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\Interop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\bin\Debug\AxInterop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Interop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.csproj.ResolveComReference.cache
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.Form1.resources
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.Properties.Resources.resources
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.csproj.GenerateResource.Cache
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.TrustInfo.xml
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.exe.manifest
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.application
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.exe
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Debug\Radyo.pdb

@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\obj\x86\Debug\ModAlma.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\obj\x86\Debug\ModAlma.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\obj\x86\Debug\ModAlma.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\bin\Debug\ModAlma.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\bin\Debug\ModAlma.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\obj\x86\Debug\ModAlma.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\ModAlma\obj\x86\Debug\ModAlma.pdb

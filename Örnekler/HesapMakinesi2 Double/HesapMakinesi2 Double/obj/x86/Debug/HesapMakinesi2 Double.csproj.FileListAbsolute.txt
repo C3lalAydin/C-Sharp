@@ -1,0 +1,16 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\bin\Debug\HesapMakinesi2 Double.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\bin\Debug\HesapMakinesi2 Double.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2_Double.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2_Double.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.pdb
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.exe
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.pdb
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\bin\Debug\HesapMakinesi2 Double.exe
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\bin\Debug\HesapMakinesi2 Double.pdb
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2_Double.Form1.resources
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2_Double.Properties.Resources.resources
+E:\USB\Okul-Programlama\C#\HesapMakinesi2 Double\HesapMakinesi2 Double\obj\x86\Debug\HesapMakinesi2 Double.csproj.GenerateResource.Cache

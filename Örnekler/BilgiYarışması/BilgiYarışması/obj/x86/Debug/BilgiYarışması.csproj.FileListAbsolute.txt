@@ -1,0 +1,14 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\obj\x86\Debug\BilgiYarışması.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\obj\x86\Debug\BilgiYarışması.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\obj\x86\Debug\BilgiYarışması.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\obj\x86\Debug\BilgiYarışması.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\BilgiYarışması\obj\x86\Debug\BilgiYarışması.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\obj\x86\Debug\BilgiYarışması.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\obj\x86\Debug\BilgiYarışması.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\bin\Debug\BilgiYarışması.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\obj\x86\Debug\BilgiYarışması.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\obj\x86\Debug\BilgiYarışması.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\BilgiYarışması\BilgiYarışması\obj\x86\Debug\BilgiYarışması.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel_Örnek.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel_Örnek.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel Örnek.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\bin\Debug\Faktoriyel Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\bin\Debug\Faktoriyel Örnek.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel Örnek.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Faktoriyel Örnek\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel Örnek.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Faktoriyel Örnek\Faktoriyel Örnek\obj\x86\Debug\Faktoriyel Örnek.pdb

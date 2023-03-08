@@ -1,0 +1,7 @@
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\bin\Release\HesapMakinesi.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\bin\Release\HesapMakinesi.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Release\HesapMakinesi.Form1.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Release\HesapMakinesi.Properties.Resources.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Release\HesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Release\HesapMakinesi.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\HesapMakinesi\HesapMakinesi\obj\x86\Release\HesapMakinesi.pdb

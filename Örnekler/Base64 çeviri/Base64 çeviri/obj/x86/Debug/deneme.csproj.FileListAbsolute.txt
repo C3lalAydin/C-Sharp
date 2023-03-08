@@ -1,0 +1,7 @@
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\bin\Debug\deneme.exe
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\bin\Debug\deneme.pdb
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\obj\x86\Debug\deneme.Form1.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\obj\x86\Debug\deneme.Properties.Resources.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\obj\x86\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\obj\x86\Debug\deneme.exe
+C:\Users\Celal\AppData\Local\Temporary Projects\deneme\obj\x86\Debug\deneme.pdb

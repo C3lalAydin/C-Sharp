@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Radyo.exe" version="1.0.0.0" publicKeyToken="e2a4621514038b57" language="tr" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="RadyoLogoİcon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Radyo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Radyo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.WMPLib.dll" size="53760">
+      <assemblyIdentity name="AxInterop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>RYtXSZQmDCTvv6fch96WKI/6CBE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.WMPLib.dll" size="330752">
+      <assemblyIdentity name="Interop.WMPLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>q5xZoVASi5nYRjWsn+RWtaWvcJA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Radyo.exe" size="858112">
+      <assemblyIdentity name="Radyo" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>n4VnKhGWqE06u7LcfWFr4gK6iZc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="RadyoLogoİcon.ico" size="115285">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>3hrU1CFvnqBjwvokzdx5x3WgzSo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=BILGISAYAR\c3lal" issuerKeyHash="d0ebce1cbe7a7c8633c1a8f88c4f3cded7fc0d4f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BOpbv2GTu4Fqi/FmjNEjIpwNP/k=</DigestValue></Reference></SignedInfo><SignatureValue>iLdz0Ok9WSZM9KbQgATXYonDdXh07VUwJE1zh1eWIAi18pj5gd0/QKM4TW854WqC5Dupbikr80Sa5cNFixV/kz9a/FYWe//ggadc63GrTvEHqiQS/LAObHT+XLvQPjuWoPJoCzPme7tjmCkZFgiQ0wJ2yzxrkTestOTvRIC9jys=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>3T83VLLcW0Xe17Xzj3+uCzs8QSD1+X7ic0TkHLqIWkvwK/J4F6k01M6WvcNQY4OX2+7jTg5GVksPBRd+mb7ATckU3DSntr/BvB9uAgLT36JAwVWjrw6cD6UJ/QFlBzdrURiXYCjueRJrK0xTwxumxMFvTpCgZXN5w4BX3aVM4z0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f93f0d9c2223d18c66f18b6a81bb9361bf5bea04" Description="" Url=""><as:assemblyIdentity name="Radyo.exe" version="1.0.0.0" publicKeyToken="e2a4621514038b57" language="tr" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=BILGISAYAR\c3lal</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lKgb5HaOiu+hUXm9mSiQ3D7+zN8=</DigestValue></Reference></SignedInfo><SignatureValue>wclvobF0XXEJTTgdj502jeSLxvl77cIkp0Pw4LaoCSBZx4VeV5uRbywMhGL8HEgCNZulMZnaGHqV3B31PAU4F5LNis5WFZVGFQDRY55m5bY7q0rlgKJMBD0C35IqQZftRL3Ry2Be5U+KU7xViBxxPpM8l9XV9WckOcCkJOu21OU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>3T83VLLcW0Xe17Xzj3+uCzs8QSD1+X7ic0TkHLqIWkvwK/J4F6k01M6WvcNQY4OX2+7jTg5GVksPBRd+mb7ATckU3DSntr/BvB9uAgLT36JAwVWjrw6cD6UJ/QFlBzdrURiXYCjueRJrK0xTwxumxMFvTpCgZXN5w4BX3aVM4z0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQSFpH8Z7jf7VMNU/khJk3PDANBgkqhkiG9w0BAQUFADArMSkwJwYDVQQDHiAAQgBJAEwARwBJAFMAQQBZAEEAUgBcAGMAMwBsAGEAbDAeFw0yMTA5MTgxNDA2MTdaFw0yMjA5MTgyMDA2MTdaMCsxKTAnBgNVBAMeIABCAEkATABHAEkAUwBBAFkAQQBSAFwAYwAzAGwAYQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDdPzdUstxbRd7XtfOPf64LOzxBIPX5fuJzROQcuohaS/Ar8ngXqTTUzpa9w1Bjg5fb7uNODkZWSw8FF36ZvsBNyRTcNKe2v8G8H24CAtPfokDBVaOvDpwPpQn9AWUHN2tRGJdgKO55EmsrTFPDG6bEwW9OkKBlc3nDgFfdpUzjPQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGiTN3ocbq4eAIBMSbVBT4/kGpnMknBlcf1HRJdHyYfJyBgOD9dB72thsm1KklLcqXJc1mvRVqFROR0dDFG3s8rrDTMPuzDljiG3hAL1yfymRQwvngEujUuyeUvRtm1Ecb8OI8L5g+uqDAZCHgf3C6qlaf3x4YyE44/D/itiliET</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

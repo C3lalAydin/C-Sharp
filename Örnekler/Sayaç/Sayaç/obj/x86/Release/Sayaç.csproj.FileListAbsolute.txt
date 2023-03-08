@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\bin\Release\Sayaç.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\bin\Release\Sayaç.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\obj\x86\Release\Sayaç.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\obj\x86\Release\Sayaç.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\obj\x86\Release\Sayaç.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\obj\x86\Release\Sayaç.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Sayaç\obj\x86\Release\Sayaç.pdb

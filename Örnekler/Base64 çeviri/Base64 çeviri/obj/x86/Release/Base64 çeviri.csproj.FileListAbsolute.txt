@@ -1,0 +1,11 @@
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\bin\Release\Base64 çeviri.exe.manifest
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\bin\Release\Base64 çeviri.application
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\bin\Release\Base64 çeviri.exe
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\bin\Release\Base64 çeviri.pdb
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\deneme.Form1.resources
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\deneme.Properties.Resources.resources
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\Base64 çeviri.csproj.GenerateResource.Cache
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\Base64 çeviri.exe.manifest
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\Base64 çeviri.application
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\Base64 çeviri.exe
+C:\Users\Celal\Documents\Visual Studio 2010\Projects\Base64 çeviri\Base64 çeviri\obj\x86\Release\Base64 çeviri.pdb

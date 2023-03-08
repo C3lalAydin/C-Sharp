@@ -1,0 +1,6 @@
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Randommm.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Randommm.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Randommm.Form1.resources
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Random.Properties.Resources.resources
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Randommm.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\example\Randommm\Randommm\obj\x86\Debug\Randommm.csproj.CoreCompileInputs.cache

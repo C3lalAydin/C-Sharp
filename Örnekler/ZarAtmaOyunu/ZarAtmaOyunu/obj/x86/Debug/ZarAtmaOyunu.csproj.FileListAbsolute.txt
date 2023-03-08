@@ -1,0 +1,9 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\bin\Debug\ZarAtmaOyunu.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\bin\Debug\ZarAtmaOyunu.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\ZarAtmaOyunu\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\ZarAtmaOyunu\ZarAtmaOyunu\obj\x86\Debug\ZarAtmaOyunu.pdb

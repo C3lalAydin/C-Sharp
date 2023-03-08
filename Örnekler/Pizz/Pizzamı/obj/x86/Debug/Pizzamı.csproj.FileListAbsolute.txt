@@ -1,0 +1,18 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\bin\Debug\Pizzamı.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\bin\Debug\Pizzamı.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\obj\x86\Debug\Pizzamı.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\obj\x86\Debug\Pizzamı.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\obj\x86\Debug\Pizzamı.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\obj\x86\Debug\Pizzamı.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Pizzamı\obj\x86\Debug\Pizzamı.pdb
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\bin\Debug\Pizzamı.exe.config
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\bin\Debug\Pizzamı.exe
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\bin\Debug\Pizzamı.pdb
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.Form1.resources
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.Properties.Resources.resources
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.csproj.CoreCompileInputs.cache
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.exe
+D:\USB\YAZILIM\C#\example\Pizz\Pizzamı\obj\x86\Debug\Pizzamı.pdb

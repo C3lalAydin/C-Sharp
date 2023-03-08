@@ -1,0 +1,21 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\bin\Debug\Database1.sdf
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\bin\Debug\Database1.mdf
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\bin\Debug\Database1_log.ldf
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\bin\Debug\sqldeneme.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\bin\Debug\sqldeneme.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\obj\x86\Debug\sqldeneme.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\obj\x86\Debug\sqldeneme.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\obj\x86\Debug\sqldeneme.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\obj\x86\Debug\sqldeneme.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\sqldeneme\obj\x86\Debug\sqldeneme.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\bin\Debug\sqldeneme.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\bin\Debug\sqldeneme.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\obj\x86\Debug\sqldeneme.csprojResolveAssemblyReference.cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\bin\Debug\ogrenciler.mdf
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\bin\Debug\ogrenciler_log.ldf
+C:\Users\c3lal\documents\visual studio 2010\Projects\sqldeneme\sqldeneme\bin\Debug\sqldeneme.exe.config

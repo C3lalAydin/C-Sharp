@@ -1,0 +1,12 @@
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Release\MediaPlayer.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Release\MediaPlayer.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Release\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\bin\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\MediaPlayer\MediaPlayer\obj\x86\Release\MediaPlayer.pdb

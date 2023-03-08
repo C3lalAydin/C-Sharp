@@ -1,0 +1,14 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\bin\Debug\While Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\bin\Debug\While Örnek.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\obj\x86\Debug\While_Örnek.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\obj\x86\Debug\While_Örnek.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\obj\x86\Debug\While Örnek.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\obj\x86\Debug\While Örnek.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\While Örnek\obj\x86\Debug\While Örnek.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\obj\x86\Debug\While Örnek.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\obj\x86\Debug\While Örnek.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\bin\Debug\While Örnek.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\bin\Debug\While Örnek.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\obj\x86\Debug\While_Örnek.Form1.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\obj\x86\Debug\While_Örnek.Properties.Resources.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\While Örnek\While Örnek\obj\x86\Debug\While Örnek.csproj.GenerateResource.Cache

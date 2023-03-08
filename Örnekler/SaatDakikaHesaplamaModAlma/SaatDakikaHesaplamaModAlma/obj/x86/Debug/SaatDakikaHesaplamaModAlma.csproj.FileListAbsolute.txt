@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\bin\Debug\SaatDakikaHesaplamaModAlma.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\bin\Debug\SaatDakikaHesaplamaModAlma.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\obj\x86\Debug\SaatDakikaHesaplamaModAlma.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\obj\x86\Debug\SaatDakikaHesaplamaModAlma.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\obj\x86\Debug\SaatDakikaHesaplamaModAlma.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\obj\x86\Debug\SaatDakikaHesaplamaModAlma.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\SaatDakikaHesaplamaModAlma\obj\x86\Debug\SaatDakikaHesaplamaModAlma.pdb

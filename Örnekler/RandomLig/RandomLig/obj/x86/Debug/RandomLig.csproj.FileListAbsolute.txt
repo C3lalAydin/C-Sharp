@@ -1,0 +1,38 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\bin\Debug\RandomLig.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\bin\Debug\RandomLig.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\RandomLig\obj\x86\Debug\RandomLig.Form2.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\bin\Debug\RandomLig.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\bin\Debug\RandomLig.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form2.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csprojResolveAssemblyReference.cache
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\bin\Debug\RandomLig.exe
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\bin\Debug\RandomLig.pdb
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csprojResolveAssemblyReference.cache
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form1.resources
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form2.resources
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Properties.Resources.resources
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.GenerateResource.Cache
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.exe
+E:\USB\Okul-Programlama\C#\RandomLig\RandomLig\obj\x86\Debug\RandomLig.pdb
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\bin\Debug\RandomLig.exe.config
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\bin\Debug\RandomLig.exe
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\bin\Debug\RandomLig.pdb
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form1.resources
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Form2.resources
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.Properties.Resources.resources
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.csproj.CoreCompileInputs.cache
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.exe
+D:\USB\YAZILIM\C#\example\RandomLig\RandomLig\obj\x86\Debug\RandomLig.pdb

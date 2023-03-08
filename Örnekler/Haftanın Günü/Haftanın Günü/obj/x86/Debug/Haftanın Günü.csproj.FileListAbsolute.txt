@@ -1,0 +1,14 @@
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\obj\x86\Debug\Haftanın_Günü.Form1.resources
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\obj\x86\Debug\Haftanın_Günü.Properties.Resources.resources
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\obj\x86\Debug\Haftanın Günü.csproj.GenerateResource.Cache
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\bin\Debug\Haftanın Günü.exe
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\bin\Debug\Haftanın Günü.pdb
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\obj\x86\Debug\Haftanın Günü.exe
+C:\Users\ogr4\AppData\Local\Temporary Projects\Haftanın Günü\obj\x86\Debug\Haftanın Günü.pdb
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\obj\x86\Debug\Haftanın Günü.exe
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\obj\x86\Debug\Haftanın Günü.pdb
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\bin\Debug\Haftanın Günü.exe
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\bin\Debug\Haftanın Günü.pdb
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\obj\x86\Debug\Haftanın_Günü.Form1.resources
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\obj\x86\Debug\Haftanın_Günü.Properties.Resources.resources
+C:\Users\ogr4\documents\visual studio 2010\Projects\Haftanın Günü\Haftanın Günü\obj\x86\Debug\Haftanın Günü.csproj.GenerateResource.Cache

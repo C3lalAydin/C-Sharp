@@ -1,0 +1,25 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\bin\Debug\Seyahat.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\bin\Debug\Seyahat.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Seyahat\obj\x86\Debug\Seyahat.Form2.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\bin\Debug\Seyahat.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\bin\Debug\Seyahat.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.csprojResolveAssemblyReference.cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.Form2.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.Form3.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.internet.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\bin\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.csproj.ResolveComReference.cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\Seyahat\Seyahat\obj\x86\Debug\Seyahat.HavaDurumu.resources

@@ -1,0 +1,20 @@
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.Form1.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.Properties.Resources.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.csproj.GenerateResource.Cache
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.Cikis.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\Interop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.csproj.ResolveComReference.cache
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.Surekli.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\GtaSetup.Oyun.resources
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\Grand Theft Auto 6 (Geyta 6).exe.manifest
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\Grand Theft Auto 6 (Geyta 6).application
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\Grand Theft Auto 6 (Geyta 6).exe
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\bin\Debug\Grand Theft Auto 6 (Geyta 6).pdb
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Grand Theft Auto 6 (Geyta 6).TrustInfo.xml
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Grand Theft Auto 6 (Geyta 6).exe.manifest
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Grand Theft Auto 6 (Geyta 6).application
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Grand Theft Auto 6 (Geyta 6).exe
+C:\Users\Celal\AppData\Local\Temporary Projects\GtaSetup\obj\x86\Debug\Grand Theft Auto 6 (Geyta 6).pdb

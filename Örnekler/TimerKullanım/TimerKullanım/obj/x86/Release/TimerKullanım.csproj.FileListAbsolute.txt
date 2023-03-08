@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\bin\Release\TimerKullanım.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\bin\Release\TimerKullanım.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\obj\x86\Release\TimerKullanım.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\obj\x86\Release\TimerKullanım.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\obj\x86\Release\TimerKullanım.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\obj\x86\Release\TimerKullanım.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\TimerKullanım\obj\x86\Release\TimerKullanım.pdb

@@ -1,0 +1,17 @@
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.csproj.ResolveComReference.cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\bin\Debug\DragYarışı.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\bin\Debug\DragYarışı.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\bin\Debug\Interop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\AtYarışı.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\AtYarışı.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.pdb
+E:\USB\Okul-Programlama\C#\DragYarışı\DragYarışı\obj\x86\Debug\Interop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\DragYarışı\DragYarışı\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.csproj.ResolveComReference.cache
+E:\USB\Okul-Programlama\C#\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.exe
+E:\USB\Okul-Programlama\C#\DragYarışı\DragYarışı\obj\x86\Debug\DragYarışı.pdb

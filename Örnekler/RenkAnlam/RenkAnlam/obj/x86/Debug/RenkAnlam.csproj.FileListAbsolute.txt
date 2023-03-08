@@ -1,0 +1,8 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\bin\Debug\RenkAnlam.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\bin\Debug\RenkAnlam.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\RenkAnlam\obj\x86\Debug\RenkAnlam.Form2.resources

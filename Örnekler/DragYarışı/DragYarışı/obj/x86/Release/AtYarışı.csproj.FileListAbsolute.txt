@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\bin\Release\AtYarışı.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\bin\Release\AtYarışı.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\obj\x86\Release\AtYarışı.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\obj\x86\Release\AtYarışı.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\obj\x86\Release\AtYarışı.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\obj\x86\Release\AtYarışı.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\AtYarışı\obj\x86\Release\AtYarışı.pdb

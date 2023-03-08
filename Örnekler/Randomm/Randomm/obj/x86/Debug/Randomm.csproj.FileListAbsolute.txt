@@ -1,0 +1,20 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\bin\Debug\Randomm.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\bin\Debug\Randomm.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\obj\x86\Debug\Randomm.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\obj\x86\Debug\Randomm.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\obj\x86\Debug\Randomm.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\obj\x86\Debug\Randomm.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Randomm\obj\x86\Debug\Randomm.pdb
+E:\USB\Okul-Programlama\C#\Randomm\Randomm\obj\x86\Debug\Randomm.exe
+E:\USB\Okul-Programlama\C#\Randomm\Randomm\obj\x86\Debug\Randomm.pdb
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\bin\Debug\Randomm.exe.config
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\bin\Debug\Randomm.exe
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\bin\Debug\Randomm.pdb
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.Form1.resources
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.Properties.Resources.resources
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.csproj.CoreCompileInputs.cache
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.exe
+D:\USB\YAZILIM\C#\example\Randomm\Randomm\obj\x86\Debug\Randomm.pdb

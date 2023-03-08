@@ -1,0 +1,34 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Release\Radyo.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Release\Radyo.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Release\Interop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.csproj.ResolveComReference.cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\Radyo\obj\x86\Release\Radyo.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.csproj.ResolveComReference.cache
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\Radyo.exe.manifest
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\Radyo.application
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\Radyo.exe
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\Radyo.pdb
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\Interop.WMPLib.dll
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\bin\Release\AxInterop.WMPLib.dll
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.Form1.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.Properties.Resources.resources
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.csproj.GenerateResource.Cache
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.TrustInfo.xml
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.exe.manifest
+C:\Users\c3lal\Documents\Visual Studio 2010\Projects\Radyo\Radyo\obj\x86\Release\Radyo.application
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Release\Interop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Release\AxInterop.WMPLib.dll
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Release\Radyo.csproj.ResolveComReference.cache
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Release\Radyo.exe
+E:\USB\Okul-Programlama\C#\Radyo\Radyo\obj\x86\Release\Radyo.pdb

@@ -1,0 +1,7 @@
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\bin\Debug\fgfh.exe
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\bin\Debug\fgfh.pdb
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\obj\x86\Debug\fgfh.Form1.resources
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\obj\x86\Debug\fgfh.Properties.Resources.resources
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\obj\x86\Debug\fgfh.csproj.GenerateResource.Cache
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\obj\x86\Debug\fgfh.exe
+C:\Users\hzr\AppData\Local\Temporary Projects\fgfh\obj\x86\Debug\fgfh.pdb

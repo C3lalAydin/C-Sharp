@@ -1,0 +1,7 @@
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\bin\Debug\RadioButtonHesapMakinesi.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\bin\Debug\RadioButtonHesapMakinesi.pdb
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\obj\x86\Debug\RadioButtonHesapMakinesi.csproj.GenerateResource.Cache
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\obj\x86\Debug\RadioButtonHesapMakinesi.exe
+C:\Users\c3lal\documents\visual studio 2010\Projects\RadioButtonHesapMakinesi\RadioButtonHesapMakinesi\obj\x86\Debug\RadioButtonHesapMakinesi.pdb

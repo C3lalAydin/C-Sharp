@@ -1,0 +1,24 @@
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\bin\Debug\Oyun.exe
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\bin\Debug\Oyun.pdb
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Oyun1.resources
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Oyun2.resources
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\Oyun.exe
+C:\Users\hzr\documents\visual studio 2010\Projects\Oyun\Oyun\obj\x86\Debug\Oyun.pdb
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\bin\Debug\Oyun.exe.config
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\bin\Debug\Oyun.exe
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\bin\Debug\Oyun.pdb
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Oyun1.resources
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Oyun2.resources
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.csproj.CoreCompileInputs.cache
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.exe
+D:\USB\YAZILIM\C#\PROJECTS\Oyun\Oyun\obj\x86\Debug\Oyun.pdb

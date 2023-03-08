@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\bin\Release\MatematikHesaplama.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\bin\Release\MatematikHesaplama.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\obj\x86\Release\MatematikHesaplama.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\obj\x86\Release\MatematikHesaplama.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\obj\x86\Release\MatematikHesaplama.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\obj\x86\Release\MatematikHesaplama.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\MatematikHesaplama\obj\x86\Release\MatematikHesaplama.pdb

@@ -1,0 +1,7 @@
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\bin\Debug\MenuStrip.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\bin\Debug\MenuStrip.pdb
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\obj\x86\Debug\MenuStrip.Form1.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\obj\x86\Debug\MenuStrip.Properties.Resources.resources
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\obj\x86\Debug\MenuStrip.csproj.GenerateResource.Cache
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\obj\x86\Debug\MenuStrip.exe
+C:\Users\c3lal\AppData\Local\Temporary Projects\MenuStrip\obj\x86\Debug\MenuStrip.pdb

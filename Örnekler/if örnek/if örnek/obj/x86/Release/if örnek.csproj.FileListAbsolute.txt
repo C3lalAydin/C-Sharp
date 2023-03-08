@@ -1,0 +1,9 @@
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\bin\Release\if örnek.exe
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\bin\Release\if örnek.pdb
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if_örnek.Form1.resources
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if_örnek.Properties.Resources.resources
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if örnek.csproj.GenerateResource.Cache
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if örnek.exe
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if örnek.pdb
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if_örnek.Form2.resources
+C:\Users\ogr4\AppData\Local\Temporary Projects\if örnek\obj\x86\Release\if_örnek.Form3.resources

@@ -1,0 +1,11 @@
+D:\USB\YAZILIM\C#\example\NDa\NDa\bin\Debug\NDa.exe.config
+D:\USB\YAZILIM\C#\example\NDa\NDa\bin\Debug\NDa.exe
+D:\USB\YAZILIM\C#\example\NDa\NDa\bin\Debug\NDa.pdb
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.csproj.AssemblyReference.cache
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.csproj.SuggestedBindingRedirects.cache
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\fgfh.Form1.resources
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\fgfh.Properties.Resources.resources
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.csproj.GenerateResource.cache
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.csproj.CoreCompileInputs.cache
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.exe
+D:\USB\YAZILIM\C#\example\NDa\NDa\obj\x86\Debug\NDa.pdb
